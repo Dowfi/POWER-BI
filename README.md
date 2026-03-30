@@ -41,10 +41,10 @@ and overall business trends to support data-driven decision-making.
 ---
 
 ## 📷 Dashboard Preview
-![Intro](Screenshot(33).png)
-![Overall](Screenshot(34).png)
-![Sales](Screenshot(35).png)
-![Profit & Loss](Screenshot(36).png)
+![Intro](Screenshot (33).png)
+![Overall](Screenshot (34).png)
+![Sales](Screenshot (35).png)
+![Profit & Loss](Screenshot (36).png)
 
 ---
 
