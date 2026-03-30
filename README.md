@@ -42,9 +42,9 @@ and overall business trends to support data-driven decision-making.
 
 ## 📷 Dashboard Preview
 ![Intro](overall.png)
-![Overall](Screenshot (34).png)
-![Sales](Screenshot (35).png)
-![Profit & Loss](Screenshot (36).png)
+![Overall](over.png)
+![Sales](sales.png)
+![Profit & Loss](P&L.png)
 
 ---
 
